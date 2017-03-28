@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publics on Academic</title>
+    <link>https://mlebo.github.io/public/index.xml</link>
+    <description>Recent content in Publics on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Your Name</copyright>
+    <lastBuildDate>Tue, 28 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/public/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>public-post</title>
+      <link>https://mlebo.github.io/public/post/public-post/</link>
+      <pubDate>Tue, 28 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlebo.github.io/public/post/public-post/</guid>
+      <description>&lt;p&gt;this is another try&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
