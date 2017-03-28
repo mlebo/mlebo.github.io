@@ -1,0 +1,10 @@
+---
+title: Marks new post
+author: Mark
+date: '2017-03-28'
+slug: marks-new-post
+categories: []
+tags: []
+---
+
+hi!
