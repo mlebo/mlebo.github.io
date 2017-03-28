@@ -126,6 +126,9 @@
 &lt;/table&gt;
 &lt;pre&gt;&lt;code&gt;## `geom_smooth()` using method = &amp;#39;loess&amp;#39;&lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;&lt;img src=&#34;https://mlebo.github.io/post/2017-03-28-marks-new-post_files/figure-html/unnamed-chunk-2-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;pre class=&#34;python&#34;&gt;&lt;code&gt;for i in range(1, 10):
+  if i &amp;gt; 5:
+    break&lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 </description>
     </item>

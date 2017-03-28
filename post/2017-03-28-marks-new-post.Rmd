@@ -31,3 +31,9 @@ ggplot(mtcars, aes(x = hp, y = mpg)) + geom_point() +
 
 ```
 
+```{python}
+for i in range(1, 10):
+  if i > 5:
+    break
+```
+
