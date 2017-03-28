@@ -1,12 +1,15 @@
 ---
-title: Marks new post
-author: Mark
+title: Quantile Regression
+author: Bob Smith
 date: '2017-03-28'
 slug: marks-new-post
 categories: []
 summary: "this is the summary part"
+image: "mountain.jpg"
+weight: 3
 tags: []
 ---
+
 
 #This is the title
 
